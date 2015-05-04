@@ -1,0 +1,25 @@
+set tabsize 4
+set tabstospaces
+## nano highlighting nano
+include "~/.nano/nanorc.nanorc"
+
+## C/C++
+include "~/.nano/c.nanorc"
+
+## Python
+include "~/.nano/python.nanorc"
+
+## Bourne shell scripts
+#include "~/.nano/bash.nanorc"
+
+## CSS
+include "~/.nano/css.nanorc"
+
+## HTML
+include "~/.nano/html.nanorc"
+
+## Markdown
+include "~/.nano/markdown.nanorc"
+
+## JavaScript
+include "~/.nano/js.nanorc"
